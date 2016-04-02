@@ -3,8 +3,8 @@
 return [
 
     // General CP
-    'dashboard' => 'Управление',
-    'nav_dashboard' => 'Панель управления',
+    'dashboard' => 'Панель управления',
+    'nav_dashboard' => 'Главная',
     'sneak_peek' => 'Быстрый просмотр',
     'sneak_peeking' => 'Идёт быстрый просмотр',
     'view_site' => 'Посмотреть сайт',
@@ -28,8 +28,8 @@ return [
     'parent_page' => 'Основная страница',
 
     // Collections
-    'collections' => 'Collection|Collections',
-    'nav_collections' => 'Collections',
+    'collections' => 'Коллекция|Коллекции',
+    'nav_collections' => 'Коллекции',
     'manage_collections' => 'Manage Collections',
     'create_collection_button' => 'Create Collection',
     'create_collection' => 'Create a New Collection',
@@ -120,16 +120,16 @@ return [
     'asset_containers_empty' => 'Each asset container can be a location on your file system, which can either be publicly accessible or protected from prying eyes.',
 
     // Users
-    'users' => 'User|Users',
-    'nav_users' => 'Users',
+    'users' => 'Пользователь|Пользователи',
+    'nav_users' => 'Пользователи',
     'create_user_button' => 'Create User',
     'create_user' => 'Create a User',
     'user_created' => 'User created',
     'editing_user' => 'Editing User',
     'user_updated' => 'User updated',
     'send_activation_email' => 'Send activation email',
-    'my_account' => 'My Account',
-    'logout' => 'Logout',
+    'my_account' => 'Мой аккаунт',
+    'logout' => 'Выход',
 
     // Roles
     'roles' => 'Role|Roles',
@@ -144,7 +144,7 @@ return [
 
     // Permissions
     'permissions' => 'Permission|Permissions',
-    'access' => 'Access',
+    'access' => 'Доступ',
 
     // User Groups
     'usergroups' => 'User Group|User Groups',
